@@ -23,9 +23,9 @@ https://min-jeong96.github.io/wanted-pre-onboarding-challenge-fe-2/
 - [x] Todo type
   - [x] typedef
   - [x] required / optional property
-- [ ] CREATE
-  - [ ] 할 일을 추가할 수 있다.
-  - [ ] 내용없이 추가할 수 없다.
+- [x] CREATE
+  - [x] 할 일을 추가할 수 있다.
+  - [x] 내용없이 추가할 수 없다.
 - [ ] READ
   - [ ] 모든 할 일을 조회할 수 있다.
   - [ ] ID를 기반으로 특정 할 일을 조회할 수 있다.
