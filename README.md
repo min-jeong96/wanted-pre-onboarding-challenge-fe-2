@@ -29,9 +29,9 @@ https://min-jeong96.github.io/wanted-pre-onboarding-challenge-fe-2/
 - [x] READ
   - [x] 모든 할 일을 조회할 수 있다.
   - [x] ID를 기반으로 특정 할 일을 조회할 수 있다.
-- [ ] UPDATE
-  - [ ] ID를 제외한 모든 속성을 수정할 수 있다.
-  - [ ] 특정 할 일의 특정 태그를 수정할 수 있다.
+- [x] UPDATE
+  - [x] ID를 제외한 모든 속성을 수정할 수 있다.
+  - [x] 특정 할 일의 특정 태그를 수정할 수 있다.
 - [ ] DELETE
   - [ ] ID를 기반으로 특정 할 일을 삭제할 수 있다.
   - [ ] 모든 할 일을 제거할 수 있다.
