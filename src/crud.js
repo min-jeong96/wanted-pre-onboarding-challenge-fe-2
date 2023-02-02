@@ -33,3 +33,23 @@ function read(id) { }
  * @returns {Todo} - 변경된 할 일 객체
  */
  function update(id, properties) { }
+
+/**
+ * 모든 할 일 삭제
+ * @returns {Todo[]} - 삭제된 할 일 목록
+ *//**
+ * ID로 특정 할 일 삭제
+ * @param {number} id - 아이디
+ * @returns {Todo} - 삭제된 할 일
+ *//**
+ * ID로 특정 할 일의 특정 태그 삭제
+ * @param {number} id - 아이디
+ * @param {string} tag - 태그
+ * @returns {Todo} - 특정 태그가 삭제된 할 일
+ *//**
+ * ID로 특정 할 일의 모든 태그 삭제
+ * @param {number} id - 아이디
+ * @param {boolean} removeAllTags - 태그
+ * @returns {Todo} - 모든 태그가 삭제된 할 일
+ */
+function remove() { }
