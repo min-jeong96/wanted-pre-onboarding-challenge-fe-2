@@ -1,15 +1,18 @@
 {
+  "homepage": "https://min-jeong96.github.io/wanted-pre-onboarding-challenge-fe-2/",
   "name": "wanted-pre-onboarding-challenge-fe-2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "docs": "jsdoc -c jsdoc.json"
+    "docs": "jsdoc -c jsdoc.json",
+    "deploy": "gh-pages -d docs"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "gh-pages": "^5.0.0",
     "jsdoc": "^4.0.0"
   }
 }
