@@ -20,9 +20,9 @@ https://min-jeong96.github.io/wanted-pre-onboarding-challenge-fe-2/
 - [ ] ```JSDoc```을 활용해 문서화한다.
 - [ ] ```Github Page```를 활용해 ```JSDoc``` 정적 페이지를 배포한다.
 
-- [ ] Todo type
-  - [ ] typedef
-  - [ ] required / optional property
+- [x] Todo type
+  - [x] typedef
+  - [x] required / optional property
 - [ ] CREATE
   - [ ] 할 일을 추가할 수 있다.
   - [ ] 내용없이 추가할 수 없다.
