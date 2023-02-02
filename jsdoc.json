@@ -1,7 +1,7 @@
 {
   "plugins": ["plugins/markdown"],
   "source": {
-      "include": ["src/"],
+      "include": ["src/", "README.md"],
       "includePattern": ".js$",
       "excludePattern": "(node_modules/|docs)_"
   },
@@ -17,6 +17,7 @@
   "opts": {
       "encoding": "utf8",
       "destination": "./docs/",
-      "recurse": true
+      "recurse": true,
+      "readme": "README.md"
   }
 }
